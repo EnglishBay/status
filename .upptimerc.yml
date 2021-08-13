@@ -8,6 +8,12 @@ sites:
     url: https://app.englishbay.site
   - name: Admin
     url: https://admin.englishbay.site
+  - name: Blog
+    url: https://englishbay.com.br/blog/
+  - name: Home
+    url: https://englishbay.com.br
+  - name: LP Curso
+    url: https://curso.englishbay.site
 
 assignees: # Users to assign downtime issues (optional)
   - marcopandolfo
@@ -25,6 +31,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/EnglishBay
+    - title: EnglishBay
+      href: https://englishbay.com.br
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
