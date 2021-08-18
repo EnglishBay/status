@@ -58,18 +58,20 @@
     "url": "https://englishbay.com.br/blog/",
     "icon": "https://favicons.githubusercontent.com/englishbay.com.br",
     "slug": "blog",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 426,
     "timeDay": 583,
     "timeWeek": 426,
     "timeMonth": 426,
     "timeYear": 426,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-18": 1
+    }
   },
   {
     "name": "Home",
