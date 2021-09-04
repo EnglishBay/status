@@ -58,10 +58,10 @@
     "url": "https://englishbay.com.br/blog/",
     "icon": "https://favicons.githubusercontent.com/englishbay.com.br",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.89%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.88%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.69%",
     "time": 463,
@@ -70,6 +70,7 @@
     "timeMonth": 463,
     "timeYear": 463,
     "dailyMinutesDown": {
+      "2021-09-04": 2,
       "2021-09-02": 7,
       "2021-08-29": 4,
       "2021-08-18": 86
@@ -80,7 +81,7 @@
     "url": "https://englishbay.com.br",
     "icon": "https://favicons.githubusercontent.com/englishbay.com.br",
     "slug": "home",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -91,7 +92,9 @@
     "timeWeek": 569,
     "timeMonth": 611,
     "timeYear": 611,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-04": 0
+    }
   },
   {
     "name": "LP Curso",
