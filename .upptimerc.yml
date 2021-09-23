@@ -3,17 +3,17 @@ repo: status # The name of this repository
 
 sites:
   - name: API
-    url: https://api.englishbay.site
+    url: https://api.englishbay.com.br
   - name: Frontend
-    url: https://app.englishbay.site
+    url: https://app.englishbay.com.br
   - name: Admin
-    url: https://admin.englishbay.site
+    url: https://admin.englishbay.com.br
   - name: Blog
     url: https://englishbay.com.br/blog/
   - name: Home
     url: https://englishbay.com.br
   - name: LP Curso
-    url: https://curso.englishbay.site
+    url: https://curso.englishbay.com.br
 
 assignees: # Users to assign downtime issues (optional)
   - marcopandolfo
@@ -21,8 +21,8 @@ assignees: # Users to assign downtime issues (optional)
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.englishbay.site
-  logoUrl: https://media.englishbay.site/englishbay.jpg
+  cname: status.englishbay.com.br
+  logoUrl: https://media.englishbay.com.br/englishbay.jpg
   name: EnglishBay services status
   introTitle: Monitoring EnglishBay services
   introMessage: This is a status page which uses **real-time** data from our services
