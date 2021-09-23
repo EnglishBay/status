@@ -4,19 +4,19 @@
     "url": "https://api.englishbay.site",
     "icon": "https://favicons.githubusercontent.com/api.englishbay.site",
     "slug": "api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 147,
-    "timeDay": 177,
-    "timeWeek": 151,
-    "timeMonth": 148,
-    "timeYear": 147,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.96%",
+    "time": 152,
+    "timeDay": 283,
+    "timeWeek": 180,
+    "timeMonth": 155,
+    "timeYear": 152,
     "dailyMinutesDown": {
-      "2021-09-23": 0
+      "2021-09-23": 25
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://app.englishbay.site",
     "icon": "https://favicons.githubusercontent.com/app.englishbay.site",
     "slug": "frontend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 207,
-    "timeDay": 165,
-    "timeWeek": 196,
-    "timeMonth": 197,
-    "timeYear": 207,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.96%",
+    "time": 208,
+    "timeDay": 228,
+    "timeWeek": 208,
+    "timeMonth": 200,
+    "timeYear": 208,
     "dailyMinutesDown": {
-      "2021-09-23": 0
+      "2021-09-23": 25
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://admin.englishbay.site",
     "icon": "https://favicons.githubusercontent.com/admin.englishbay.site",
     "slug": "admin",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 200,
-    "timeDay": 161,
-    "timeWeek": 197,
-    "timeMonth": 196,
-    "timeYear": 200,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.96%",
+    "time": 203,
+    "timeDay": 255,
+    "timeWeek": 216,
+    "timeMonth": 201,
+    "timeYear": 203,
     "dailyMinutesDown": {
-      "2021-09-23": 0
+      "2021-09-23": 25
     }
   },
   {
@@ -110,18 +110,18 @@
     "icon": "https://favicons.githubusercontent.com/curso.englishbay.site",
     "slug": "lp-curso",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.96%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.96%",
     "time": 150,
     "timeDay": 208,
     "timeWeek": 164,
     "timeMonth": 152,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2021-09-23": 0
+      "2021-09-23": 25
     }
   }
 ]
