@@ -4,7 +4,7 @@
     "url": "https://api.englishbay.com.br",
     "icon": "https://favicons.githubusercontent.com/api.englishbay.com.br",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 504,
     "timeYear": 294,
     "dailyMinutesDown": {
+      "2021-11-02": 0,
       "2021-10-18": 13,
       "2021-09-27": 5,
       "2021-09-23": 25
