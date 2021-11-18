@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 288,
-    "timeDay": 268,
-    "timeWeek": 247,
-    "timeMonth": 468,
-    "timeYear": 288,
+    "time": 287,
+    "timeDay": 132,
+    "timeWeek": 236,
+    "timeMonth": 444,
+    "timeYear": 287,
     "dailyMinutesDown": {
       "2021-09-23": 25
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 282,
-    "timeDay": 257,
-    "timeWeek": 252,
-    "timeMonth": 249,
+    "timeDay": 293,
+    "timeWeek": 264,
+    "timeMonth": 248,
     "timeYear": 282,
     "dailyMinutesDown": {
       "2021-09-23": 25
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 336,
-    "timeDay": 221,
-    "timeWeek": 283,
-    "timeMonth": 571,
+    "timeDay": 271,
+    "timeWeek": 286,
+    "timeMonth": 570,
     "timeYear": 336,
     "dailyMinutesDown": {
       "2021-09-23": 25
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 279,
-    "timeDay": 102,
-    "timeWeek": 158,
-    "timeMonth": 166,
-    "timeYear": 279,
+    "time": 278,
+    "timeDay": 207,
+    "timeWeek": 162,
+    "timeMonth": 165,
+    "timeYear": 278,
     "dailyMinutesDown": {
       "2021-09-10": 19,
       "2021-08-18": 86
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 388,
-    "timeDay": 108,
-    "timeWeek": 236,
+    "time": 385,
+    "timeDay": 39,
+    "timeWeek": 238,
     "timeMonth": 113,
-    "timeYear": 388,
+    "timeYear": 385,
     "dailyMinutesDown": {}
   },
   {
@@ -109,11 +109,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 202,
-    "timeDay": 238,
-    "timeWeek": 253,
-    "timeMonth": 243,
-    "timeYear": 202,
+    "time": 203,
+    "timeDay": 241,
+    "timeWeek": 222,
+    "timeMonth": 245,
+    "timeYear": 203,
     "dailyMinutesDown": {
       "2021-09-23": 38
     }
