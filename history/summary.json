@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 285,
-    "timeDay": 255,
-    "timeWeek": 248,
-    "timeMonth": 261,
+    "timeDay": 232,
+    "timeWeek": 247,
+    "timeMonth": 258,
     "timeYear": 285,
     "dailyMinutesDown": {
       "2021-09-23": 25
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 284,
-    "timeDay": 300,
-    "timeWeek": 317,
-    "timeMonth": 276,
-    "timeYear": 284,
+    "time": 283,
+    "timeDay": 130,
+    "timeWeek": 281,
+    "timeMonth": 262,
+    "timeYear": 283,
     "dailyMinutesDown": {
       "2021-09-23": 25
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 334,
-    "timeDay": 260,
-    "timeWeek": 338,
+    "time": 333,
+    "timeDay": 242,
+    "timeWeek": 304,
     "timeMonth": 575,
-    "timeYear": 334,
+    "timeYear": 333,
     "dailyMinutesDown": {
       "2021-09-23": 25
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 269,
-    "timeDay": 146,
-    "timeWeek": 164,
-    "timeMonth": 168,
-    "timeYear": 269,
+    "time": 268,
+    "timeDay": 102,
+    "timeWeek": 157,
+    "timeMonth": 166,
+    "timeYear": 268,
     "dailyMinutesDown": {
       "2021-09-10": 19,
       "2021-08-18": 86
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 358,
-    "timeDay": 56,
-    "timeWeek": 41,
-    "timeMonth": 116,
-    "timeYear": 358,
+    "time": 355,
+    "timeDay": 29,
+    "timeWeek": 39,
+    "timeMonth": 83,
+    "timeYear": 355,
     "dailyMinutesDown": {}
   },
   {
@@ -104,15 +104,15 @@
     "icon": "https://favicons.githubusercontent.com/curso.englishbay.com.br",
     "slug": "lp-curso",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 213,
-    "timeDay": 231,
-    "timeWeek": 296,
-    "timeMonth": 282,
+    "timeDay": 171,
+    "timeWeek": 289,
+    "timeMonth": 272,
     "timeYear": 213,
     "dailyMinutesDown": {
       "2021-09-23": 38
