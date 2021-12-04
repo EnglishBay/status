@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 282,
-    "timeDay": 131,
-    "timeWeek": 230,
-    "timeMonth": 250,
+    "timeDay": 237,
+    "timeWeek": 227,
+    "timeMonth": 248,
     "timeYear": 282,
     "dailyMinutesDown": {
       "2021-09-23": 25
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 282,
-    "timeDay": 168,
-    "timeWeek": 255,
+    "timeDay": 265,
+    "timeWeek": 250,
     "timeMonth": 268,
     "timeYear": 282,
     "dailyMinutesDown": {
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 330,
-    "timeDay": 130,
-    "timeWeek": 255,
-    "timeMonth": 275,
-    "timeYear": 330,
+    "time": 329,
+    "timeDay": 232,
+    "timeWeek": 251,
+    "timeMonth": 276,
+    "timeYear": 329,
     "dailyMinutesDown": {
       "2021-09-23": 25
     }
@@ -65,16 +65,16 @@
     "icon": "https://favicons.githubusercontent.com/englishbay.com.br",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
-    "time": 267,
-    "timeDay": 104,
-    "timeWeek": 217,
-    "timeMonth": 174,
-    "timeYear": 267,
+    "uptimeYear": "99.94%",
+    "time": 266,
+    "timeDay": 165,
+    "timeWeek": 220,
+    "timeMonth": 175,
+    "timeYear": 266,
     "dailyMinutesDown": {
       "2021-09-10": 19,
       "2021-08-18": 86
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 342,
-    "timeDay": 27,
-    "timeWeek": 33,
+    "time": 339,
+    "timeDay": 37,
+    "timeWeek": 30,
     "timeMonth": 84,
-    "timeYear": 342,
+    "timeYear": 339,
     "dailyMinutesDown": {}
   },
   {
@@ -110,9 +110,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 211,
-    "timeDay": 135,
-    "timeWeek": 177,
-    "timeMonth": 270,
+    "timeDay": 237,
+    "timeWeek": 178,
+    "timeMonth": 267,
     "timeYear": 211,
     "dailyMinutesDown": {
       "2021-09-23": 38
