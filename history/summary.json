@@ -103,18 +103,19 @@
     "url": "https://curso.englishbay.com.br",
     "icon": "https://favicons.githubusercontent.com/curso.englishbay.com.br",
     "slug": "lp-curso",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 219,
-    "timeDay": 102,
-    "timeWeek": 212,
-    "timeMonth": 240,
-    "timeYear": 219,
+    "time": 220,
+    "timeDay": 166,
+    "timeWeek": 214,
+    "timeMonth": 239,
+    "timeYear": 220,
     "dailyMinutesDown": {
+      "2022-01-11": 0,
       "2021-09-23": 38
     }
   }
