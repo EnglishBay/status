@@ -22,19 +22,19 @@
     "url": "https://app.englishbay.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/app.englishbay.com.br.ico",
     "slug": "frontend",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 293,
-    "timeDay": 212,
-    "timeWeek": 274,
-    "timeMonth": 315,
+    "timeDay": 281,
+    "timeWeek": 290,
+    "timeMonth": 318,
     "timeYear": 303,
     "dailyMinutesDown": {
-      "2025-07-03": 0
+      "2025-07-03": 18
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://admin.englishbay.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/admin.englishbay.com.br.ico",
     "slug": "admin",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 348,
-    "timeDay": 229,
-    "timeWeek": 241,
-    "timeMonth": 312,
+    "timeDay": 316,
+    "timeWeek": 268,
+    "timeMonth": 318,
     "timeYear": 351,
     "dailyMinutesDown": {
-      "2025-07-03": 0
+      "2025-07-03": 18
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://englishbay.com.br/blog/",
     "icon": "https://icons.duckduckgo.com/ip3/englishbay.com.br.ico",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 211,
-    "timeDay": 197,
-    "timeWeek": 208,
-    "timeMonth": 219,
+    "timeDay": 228,
+    "timeWeek": 217,
+    "timeMonth": 222,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2025-07-03": 0
+      "2025-07-03": 18
     }
   },
   {
@@ -82,19 +82,19 @@
     "url": "https://englishbay.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/englishbay.com.br.ico",
     "slug": "home",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 42,
-    "timeDay": 25,
-    "timeWeek": 40,
+    "timeDay": 35,
+    "timeWeek": 42,
     "timeMonth": 46,
     "timeYear": 42,
     "dailyMinutesDown": {
-      "2025-07-03": 0
+      "2025-07-03": 18
     }
   },
   {
@@ -102,19 +102,19 @@
     "url": "https://curso.englishbay.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/curso.englishbay.com.br.ico",
     "slug": "lp-curso",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 202,
-    "timeWeek": 206,
-    "timeMonth": 230,
+    "timeDay": 236,
+    "timeWeek": 217,
+    "timeMonth": 233,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2025-07-03": 0
+      "2025-07-03": 18
     }
   }
 ]
