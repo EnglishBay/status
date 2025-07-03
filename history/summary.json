@@ -22,89 +22,99 @@
     "url": "https://app.englishbay.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/app.englishbay.com.br.ico",
     "slug": "frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 293,
-    "timeDay": 253,
-    "timeWeek": 289,
-    "timeMonth": 319,
+    "timeDay": 212,
+    "timeWeek": 274,
+    "timeMonth": 315,
     "timeYear": 303,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-03": 0
+    }
   },
   {
     "name": "Admin",
     "url": "https://admin.englishbay.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/admin.englishbay.com.br.ico",
     "slug": "admin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 348,
-    "timeDay": 277,
-    "timeWeek": 249,
-    "timeMonth": 317,
-    "timeYear": 352,
-    "dailyMinutesDown": {}
+    "timeDay": 229,
+    "timeWeek": 241,
+    "timeMonth": 312,
+    "timeYear": 351,
+    "dailyMinutesDown": {
+      "2025-07-03": 0
+    }
   },
   {
     "name": "Blog",
     "url": "https://englishbay.com.br/blog/",
     "icon": "https://icons.duckduckgo.com/ip3/englishbay.com.br.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 211,
     "timeDay": 197,
-    "timeWeek": 210,
-    "timeMonth": 220,
+    "timeWeek": 208,
+    "timeMonth": 219,
     "timeYear": 222,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-03": 0
+    }
   },
   {
     "name": "Home",
     "url": "https://englishbay.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/englishbay.com.br.ico",
     "slug": "home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 42,
-    "timeDay": 35,
-    "timeWeek": 44,
-    "timeMonth": 47,
+    "timeDay": 25,
+    "timeWeek": 40,
+    "timeMonth": 46,
     "timeYear": 42,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-03": 0
+    }
   },
   {
     "name": "LP Curso",
     "url": "https://curso.englishbay.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/curso.englishbay.com.br.ico",
     "slug": "lp-curso",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 211,
-    "timeWeek": 208,
-    "timeMonth": 232,
+    "timeDay": 202,
+    "timeWeek": 206,
+    "timeMonth": 230,
     "timeYear": 208,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-03": 0
+    }
   }
 ]
