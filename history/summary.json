@@ -4,18 +4,20 @@
     "url": "https://api.englishbay.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/api.englishbay.com.br.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 301,
-    "timeDay": 416,
-    "timeWeek": 340,
+    "timeDay": 356,
+    "timeWeek": 334,
     "timeMonth": 324,
     "timeYear": 311,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-18": 1
+    }
   },
   {
     "name": "Frontend",
@@ -42,18 +44,19 @@
     "url": "https://admin.englishbay.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/admin.englishbay.com.br.ico",
     "slug": "admin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 351,
+    "time": 352,
     "timeDay": 382,
     "timeWeek": 386,
     "timeMonth": 334,
     "timeYear": 349,
     "dailyMinutesDown": {
+      "2025-07-18": 0,
       "2025-07-03": 18
     }
   },
