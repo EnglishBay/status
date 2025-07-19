@@ -6,18 +6,16 @@
     "slug": "api",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 302,
-    "timeDay": 341,
-    "timeWeek": 331,
-    "timeMonth": 323,
+    "timeDay": 344,
+    "timeWeek": 335,
+    "timeMonth": 325,
     "timeYear": 311,
-    "dailyMinutesDown": {
-      "2025-07-18": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Frontend",
@@ -30,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 295,
-    "timeDay": 425,
-    "timeWeek": 357,
-    "timeMonth": 333,
+    "time": 296,
+    "timeDay": 414,
+    "timeWeek": 353,
+    "timeMonth": 334,
     "timeYear": 306,
     "dailyMinutesDown": {
       "2025-07-03": 18
@@ -46,17 +44,16 @@
     "slug": "admin",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "100.00%",
     "time": 352,
-    "timeDay": 340,
-    "timeWeek": 375,
-    "timeMonth": 333,
-    "timeYear": 348,
+    "timeDay": 288,
+    "timeWeek": 366,
+    "timeMonth": 330,
+    "timeYear": 349,
     "dailyMinutesDown": {
-      "2025-07-18": 14,
       "2025-07-03": 18
     }
   },
@@ -71,10 +68,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 213,
-    "timeDay": 316,
-    "timeWeek": 253,
-    "timeMonth": 244,
+    "time": 214,
+    "timeDay": 281,
+    "timeWeek": 250,
+    "timeMonth": 248,
     "timeYear": 225,
     "dailyMinutesDown": {
       "2025-07-03": 18
@@ -94,7 +91,7 @@
     "time": 42,
     "timeDay": 52,
     "timeWeek": 43,
-    "timeMonth": 49,
+    "timeMonth": 48,
     "timeYear": 42,
     "dailyMinutesDown": {
       "2025-07-03": 18
@@ -112,9 +109,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 201,
-    "timeDay": 313,
-    "timeWeek": 214,
-    "timeMonth": 234,
+    "timeDay": 282,
+    "timeWeek": 212,
+    "timeMonth": 238,
     "timeYear": 211,
     "dailyMinutesDown": {
       "2025-07-03": 18
