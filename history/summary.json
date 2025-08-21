@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 306,
-    "timeDay": 262,
-    "timeWeek": 315,
-    "timeMonth": 325,
-    "timeYear": 314,
+    "time": 308,
+    "timeDay": 1343,
+    "timeWeek": 452,
+    "timeMonth": 354,
+    "timeYear": 317,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 299,
-    "timeDay": 280,
+    "timeDay": 299,
     "timeWeek": 269,
-    "timeMonth": 308,
+    "timeMonth": 306,
     "timeYear": 309,
     "dailyMinutesDown": {
       "2025-07-03": 18
@@ -43,15 +43,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.englishbay.com.br.ico",
     "slug": "admin",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 359,
-    "timeDay": 274,
-    "timeWeek": 334,
-    "timeMonth": 359,
+    "timeDay": 257,
+    "timeWeek": 298,
+    "timeMonth": 355,
     "timeYear": 342,
     "dailyMinutesDown": {
       "2025-07-03": 18
@@ -69,10 +69,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 217,
-    "timeDay": 167,
-    "timeWeek": 214,
-    "timeMonth": 228,
-    "timeYear": 229,
+    "timeDay": 521,
+    "timeWeek": 260,
+    "timeMonth": 233,
+    "timeYear": 230,
     "dailyMinutesDown": {
       "2025-07-03": 18
     }
@@ -89,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 42,
-    "timeDay": 31,
-    "timeWeek": 42,
-    "timeMonth": 43,
+    "timeDay": 144,
+    "timeWeek": 58,
+    "timeMonth": 46,
     "timeYear": 43,
     "dailyMinutesDown": {
       "2025-07-03": 18
@@ -108,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 202,
-    "timeDay": 326,
-    "timeWeek": 219,
-    "timeMonth": 207,
-    "timeYear": 211,
+    "time": 203,
+    "timeDay": 542,
+    "timeWeek": 268,
+    "timeMonth": 215,
+    "timeYear": 212,
     "dailyMinutesDown": {
       "2025-07-03": 18
     }
