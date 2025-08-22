@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 308,
-    "timeDay": 1343,
-    "timeWeek": 452,
-    "timeMonth": 354,
+    "timeDay": 318,
+    "timeWeek": 454,
+    "timeMonth": 353,
     "timeYear": 317,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 299,
-    "timeDay": 299,
-    "timeWeek": 269,
+    "timeDay": 390,
+    "timeWeek": 289,
     "timeMonth": 306,
-    "timeYear": 309,
+    "timeYear": 310,
     "dailyMinutesDown": {
       "2025-07-03": 18
     }
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 359,
-    "timeDay": 257,
-    "timeWeek": 298,
-    "timeMonth": 355,
+    "timeDay": 341,
+    "timeWeek": 308,
+    "timeMonth": 353,
     "timeYear": 342,
     "dailyMinutesDown": {
       "2025-07-03": 18
@@ -68,9 +68,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 217,
-    "timeDay": 521,
-    "timeWeek": 260,
+    "time": 218,
+    "timeDay": 304,
+    "timeWeek": 269,
     "timeMonth": 233,
     "timeYear": 230,
     "dailyMinutesDown": {
@@ -83,14 +83,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/englishbay.com.br.ico",
     "slug": "home",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 42,
-    "timeDay": 144,
-    "timeWeek": 58,
+    "timeDay": 65,
+    "timeWeek": 60,
     "timeMonth": 46,
     "timeYear": 43,
     "dailyMinutesDown": {
@@ -109,9 +109,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 203,
-    "timeDay": 542,
-    "timeWeek": 268,
-    "timeMonth": 215,
+    "timeDay": 262,
+    "timeWeek": 279,
+    "timeMonth": 217,
     "timeYear": 212,
     "dailyMinutesDown": {
       "2025-07-03": 18
