@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 314,
-    "timeDay": 356,
-    "timeWeek": 379,
-    "timeMonth": 380,
+    "time": 315,
+    "timeDay": 246,
+    "timeWeek": 331,
+    "timeMonth": 370,
     "timeYear": 325,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 305,
-    "timeDay": 448,
-    "timeWeek": 356,
-    "timeMonth": 361,
+    "timeDay": 272,
+    "timeWeek": 325,
+    "timeMonth": 352,
     "timeYear": 315,
     "dailyMinutesDown": {
       "2025-07-03": 18
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 356,
-    "timeDay": 422,
-    "timeWeek": 318,
-    "timeMonth": 347,
+    "timeDay": 261,
+    "timeWeek": 299,
+    "timeMonth": 337,
     "timeYear": 341,
     "dailyMinutesDown": {
       "2025-07-03": 18
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 223,
-    "timeDay": 388,
-    "timeWeek": 242,
-    "timeMonth": 247,
+    "timeDay": 212,
+    "timeWeek": 233,
+    "timeMonth": 239,
     "timeYear": 234,
     "dailyMinutesDown": {
       "2025-07-03": 18
@@ -89,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 44,
-    "timeDay": 77,
-    "timeWeek": 51,
-    "timeMonth": 59,
+    "timeDay": 41,
+    "timeWeek": 50,
+    "timeMonth": 56,
     "timeYear": 45,
     "dailyMinutesDown": {
       "2025-07-03": 18
@@ -103,18 +103,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/curso.englishbay.com.br.ico",
     "slug": "lp-curso",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptime": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 208,
-    "timeDay": 298,
-    "timeWeek": 206,
-    "timeMonth": 239,
+    "timeDay": 257,
+    "timeWeek": 218,
+    "timeMonth": 230,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2025-09-25": 3,
       "2025-07-03": 18
     }
   }
