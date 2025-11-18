@@ -6,37 +6,35 @@
     "slug": "api",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 322,
     "timeDay": 300,
     "timeWeek": 362,
     "timeMonth": 342,
     "timeYear": 330,
-    "dailyMinutesDown": {
-      "2025-11-18": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Frontend",
     "url": "https://app.englishbay.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/app.englishbay.com.br.ico",
     "slug": "frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 312,
-    "timeDay": 305,
-    "timeWeek": 356,
-    "timeMonth": 332,
+    "timeDay": 281,
+    "timeWeek": 343,
+    "timeMonth": 329,
     "timeYear": 320,
     "dailyMinutesDown": {
-      "2025-11-18": 13,
+      "2025-11-18": 0,
       "2025-07-03": 18
     }
   },
@@ -47,9 +45,9 @@
     "slug": "admin",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 356,
     "timeDay": 453,
@@ -57,7 +55,6 @@
     "timeMonth": 439,
     "timeYear": 338,
     "dailyMinutesDown": {
-      "2025-11-18": 13,
       "2025-10-02": 17,
       "2025-07-03": 18
     }
@@ -69,9 +66,9 @@
     "slug": "blog",
     "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 229,
     "timeDay": 268,
@@ -79,7 +76,7 @@
     "timeMonth": 239,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2025-11-18": 13,
+      "2025-11-18": 18,
       "2025-07-03": 18
     }
   },
@@ -90,9 +87,9 @@
     "slug": "home",
     "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 44,
     "timeDay": 28,
@@ -100,7 +97,7 @@
     "timeMonth": 42,
     "timeYear": 45,
     "dailyMinutesDown": {
-      "2025-11-18": 13,
+      "2025-11-18": 18,
       "2025-07-03": 18
     }
   },
@@ -111,9 +108,9 @@
     "slug": "lp-curso",
     "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 213,
     "timeDay": 143,
@@ -121,7 +118,7 @@
     "timeMonth": 223,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2025-11-18": 13,
+      "2025-11-18": 18,
       "2025-07-03": 18
     }
   }
