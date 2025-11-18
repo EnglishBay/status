@@ -1,7 +1,7 @@
 url: https://admin.englishbay.com.br
-status: up
-code: 200
-responseTime: 850
-lastUpdated: 2025-11-18T11:48:11.216Z
+status: down
+code: 500
+responseTime: 233
+lastUpdated: 2025-11-18T11:58:46.031Z
 startTime: 2021-08-13T04:00:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
