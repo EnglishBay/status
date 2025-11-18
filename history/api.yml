@@ -1,7 +1,7 @@
 url: https://api.englishbay.com.br
-status: up
-code: 200
-responseTime: 272
-lastUpdated: 2025-11-18T12:35:15.955Z
+status: down
+code: 500
+responseTime: 219
+lastUpdated: 2025-11-18T13:09:10.236Z
 startTime: 2021-08-13T04:00:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
