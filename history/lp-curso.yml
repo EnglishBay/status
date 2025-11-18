@@ -1,7 +1,7 @@
 url: https://curso.englishbay.com.br
-status: up
-code: 200
+status: down
+code: 500
 responseTime: 181
-lastUpdated: 2025-11-18T12:35:29.739Z
+lastUpdated: 2025-11-18T13:09:21.141Z
 startTime: 2021-08-13T04:18:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
