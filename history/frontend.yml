@@ -1,7 +1,7 @@
 url: https://app.englishbay.com.br
-status: up
-code: 200
-responseTime: 313
-lastUpdated: 2025-12-18T23:13:30.384Z
+status: down
+code: 502
+responseTime: 222
+lastUpdated: 2025-12-19T11:56:22.098Z
 startTime: 2021-08-13T04:00:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
