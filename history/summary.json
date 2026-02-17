@@ -46,10 +46,10 @@
     "url": "https://admin.englishbay.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/admin.englishbay.com.br.ico",
     "slug": "admin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 350,
@@ -58,6 +58,7 @@
     "timeMonth": 474,
     "timeYear": 349,
     "dailyMinutesDown": {
+      "2026-02-17": 2,
       "2025-11-18": 154,
       "2025-10-02": 17,
       "2025-07-03": 18
@@ -110,9 +111,9 @@
     "url": "https://curso.englishbay.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/curso.englishbay.com.br.ico",
     "slug": "lp-curso",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -122,6 +123,7 @@
     "timeMonth": 198,
     "timeYear": 215,
     "dailyMinutesDown": {
+      "2026-02-17": 0,
       "2025-11-18": 214,
       "2025-07-03": 18
     }
